@@ -36,6 +36,10 @@
 
 ![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/a5af471e-e17f-4207-b91f-83819b9076cc)
 
+# Challenge
+* Too Much Disk I/O
+* Random Disk I/O
+* Fragmentation
 
 # Record ID
 
