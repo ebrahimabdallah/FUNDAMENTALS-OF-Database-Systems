@@ -29,7 +29,7 @@
 
 
 # Before Use Slotted
- ![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/211941ca-1533-4d8f-8648-fab3efca1ace)
+![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/211941ca-1533-4d8f-8648-fab3efca1ace)
 )# Slotted Pages 
 
 # After
