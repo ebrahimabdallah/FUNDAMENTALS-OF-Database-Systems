@@ -28,11 +28,11 @@
  ![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/acbb1058-36a8-4d51-99a8-8091937d6ef6)# Slotted Pages 
 
 
-# After Use Slotted
+# Before Use Slotted
  ![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/211941ca-1533-4d8f-8648-fab3efca1ace)
 )# Slotted Pages 
 
-# Before 
+# After
 
 ![1618490094733](https://github.com/ebrahimabdallah/FUNDAMENTALS-OF-Database-Systems/assets/119238955/a5af471e-e17f-4207-b91f-83819b9076cc)
 
